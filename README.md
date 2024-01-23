@@ -13,5 +13,5 @@ Contains java programs created during my COSC-1200-01-OBJECT ORIENTED PROGRAMMIN
 
 ### Prerequisites
 
-- Java https: //www.java.com/download/ie_manual.jsp
+- Java https://www.java.com/download/ie_manual.jsp
 - Visual Studio Code https://code.visualstudio.com/download
