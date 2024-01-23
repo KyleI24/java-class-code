@@ -1,0 +1,9 @@
+git branch
+
+git status
+
+git add -u
+
+git commit -m "changed readme"
+
+git push
