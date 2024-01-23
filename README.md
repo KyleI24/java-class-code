@@ -7,11 +7,11 @@ Kyle Intendencia
 kyle.intendencia@dcmail.ca
 
 
-# Description
+## Description
 
 Contains java programs created during my COSC-1200-01-OBJECT ORIENTED PROGRAMMING class in durham college.
 
-### Prerequisites
+## Prerequisites
 
 - Java https://www.java.com/download/ie_manual.jsp
 - Visual Studio Code https://code.visualstudio.com/download
